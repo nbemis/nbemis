@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbemis
-- 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 👀 I’m interested in Full-Stack Development, Data Science, & Automation
+- 🌱 I’m currently learning Python, Terraform, Hadoop, AWS, & Snowflake
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me nbemisderfer@gmail.com
 
